@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueSM&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <img align="center" alt="Vitor-mysql" height="30" width="50"  src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Vitor-Figma" height="30" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Vitor-mysqlServer" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></div>
+  </div>
 
 ##
 
