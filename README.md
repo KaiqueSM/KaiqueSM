@@ -17,13 +17,7 @@ You can click the Preview link to take a look at your changes.
   
   <img align="center" alt="Vitor-mysql" height="30" width="50"  src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Vitor-Figma" height="30" width="50" src= "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Vitor-mysqlServer" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Vitor-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-PowerBi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Vitor-Csharp" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right"  alt="Vitor-dance" height="350" width="320" src="https://metropolitanafm.com.br/wp-content/uploads/2019/01/gif-menina-dan%C3%A7ando-maisa.gif">
-</div>
+  <img align="center" alt="Vitor-mysqlServer" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></div>
 
 ##
 
